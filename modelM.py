@@ -16,7 +16,7 @@ import pickle
 nltk.download('stopwords')
 
 # Load and preprocess the cleaned dataset
-file_path = r'D:\FYP2004\StyleMate\m4_cleaned.csv'
+file_path = r'D:\ML Assignment\ML Project\StyleMate_\m4_cleaned.csv'
 
 def load_and_preprocess_data(file_path):
     df = pd.read_csv(file_path)
