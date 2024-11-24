@@ -1,0 +1,271 @@
+Weather,Color Palette,Pattern,Feeling,Clothing Fit,Dress Name,Description
+Windy,Neutral,Solid colors,Sophisticated,Standard,Suit,A sharp and sophisticated choice for formal events.
+Snowy,Bright,Geometric,Casual,Standard,T-Shirt,A lightweight and comfy everyday essential.
+Pleasant,Earth,Stripes,Casual,Oversized,Sweater,"Perfect for chilly days, offering warmth with style."
+Windy,Pastel,Solid colors,Unique,Standard,Jacket,A timeless piece to stay snug and fashionable.
+Pleasant,Pastel,Stripes,Casual,Standard,Jeans,Classic denim for versatile and effortless style.
+Pleasant,Earth,Floral,Sophisticated,Standard,Chinos,A smart and polished alternative to jeans.
+Windy,Bright,Stripes,Casual,Loose,Shorts,"Breezy and casual, ideal for sunny outings."
+Snowy,Neutral,Stripes,Sophisticated,Oversized,Hoodie,"Cozy and relaxed, perfect for laid-back days."
+Pleasant,Pastel,Solid colors,Unique,Standard,Blazer,Adds a refined touch to casual or formal outfits.
+Windy,Bright,Stripes,Sophisticated,Standard,Polo Shirt,A stylish yet relaxed choice for warm weather.
+Pleasant,Pastel,Solid colors,Casual,Standard,Casual Shirt,Simple and comfortable for everyday wear.
+Windy,Earth,Geometric,Trendy,Standard,Formal Shirt,"A crisp, elegant shirt for professional settings."
+Snowy,Bright,Geometric,Unique,Oversized,Cardigan,"A soft, button-up layer for cooler days."
+Windy,Neutral,Stripes,Sophisticated,Standard,Denim Jacket,A rugged classic for casual layering.
+Pleasant,Pastel,Solid colors,Casual,Standard,Bomber Jacket,A lightweight jacket that’s both cool and versatile.
+Snowy,Earth,Solid colors,Unique,Oversized,Trench Coat,Stylish and functional for rainy days.
+Snowy,Bright,Solid colors,Sophisticated,Loose,Tracksuit,Sporty and comfy for active or relaxed moments.
+Windy,Earth,Geometric,Casual,Oversized,Cardigan,"A knitted sweater that opens at the front, suitable for layering."
+Sunny,Bright,Stripes,Casual,Loose,Sweatpants,"A Comfortable, soft trousers often worn for lounging or exercise."
+Windy,Bright,Stripes,Unique,Tight,Vest,"A sleeveless upper garment, often worn over shirts for a formal or casual look."
+Pleasant,Bright,Stripes,Sophisticated,Standard,Jeans,"Perfect for chilly days, offering warmth with style."
+Pleasant,Neutral,Stripes,Trendy,Oversized,Hoodie,"Breezy and casual, ideal for sunny outings."
+Pleasant,Earth,Stripes,Sophisticated,Standard,Blazer,Adds a refined touch to casual or formal outfits.
+Sunny,Earth,Stripes,Unique,Oversized,Hoodie,Classic denim for versatile and effortless style.
+Sunny,Earth,Stripes,Trendy,Standard,Chinos,"A Comfortable, soft trousers often worn for lounging or exercise."
+Windy,Pastel,Stripes,Sophisticated,Loose,Sweatpants,"Cozy and relaxed, perfect for laid-back days."
+Pleasant,Bright,Stripes,Unique,Oversized,Trench Coat,A lightweight jacket that’s both cool and versatile.
+Sunny,Pastel,Geometric,Sophisticated,Standard,Jeans,"A Comfortable, soft trousers often worn for lounging or exercise."
+Pleasant,Bright,Solid colors,Sophisticated,Standard,Denim Jacket,A smart and polished alternative to jeans.
+Pleasant,Earth,Stripes,Trendy,Oversized,Hoodie,A smart and polished alternative to jeans.
+Sunny,Neutral,Stripes,Unique,Standard,Jeans,A rugged classic for casual layering.
+Pleasant,Neutral,Solid colors,Casual,Oversized,Hoodie,Simple and comfortable for everyday wear.
+Windy,Bright,Solid colors,Unique,Loose,Tracksuit,A timeless piece to stay snug and fashionable.
+Windy,Bright,Geometric,Sophisticated,Loose,Tracksuit,"Perfect for chilly days, offering warmth with style."
+Pleasant,Bright,Stripes,Casual,Standard,Jeans,"Perfect for chilly days, offering warmth with style."
+Snowy,Bright,Geometric,Sophisticated,Standard,Blazer,A stylish yet relaxed choice for warm weather.
+Windy,Bright,Floral,Sophisticated,Standard,Denim Jacket,"Breezy and casual, ideal for sunny outings."
+Pleasant,Bright,Stripes,Casual,Loose,Shorts,Adds a refined touch to casual or formal outfits.
+Windy,Bright,Stripes,Sophisticated,Loose,Sweatpants,"Perfect for chilly days, offering warmth with style."
+Sunny,Neutral,Stripes,Casual,Standard,Polo Shirt,"Cozy and relaxed, perfect for laid-back days."
+Snowy,Earth,Solid colors,Sophisticated,Loose,Shorts,A lightweight and comfy everyday essential.
+Windy,Bright,Stripes,Sophisticated,Loose,Shorts,Simple and comfortable for everyday wear.
+Sunny,Bright,Geometric,Trendy,Standard,Formal Shirt,A stylish yet relaxed choice for warm weather.
+Snowy,Earth,Stripes,Casual,Standard,T-Shirt,Adds a refined touch to casual or formal outfits.
+Snowy,Pastel,Geometric,Trendy,Standard,T-Shirt,"A soft, button-up layer for cooler days."
+Sunny,Neutral,Stripes,Unique,Standard,Bomber Jacket,"Perfect for chilly days, offering warmth with style."
+Pleasant,Bright,Floral,Unique,Standard,Blazer,Stylish and functional for rainy days.
+Windy,Bright,Geometric,Sophisticated,Standard,Jacket,"Cozy and relaxed, perfect for laid-back days."
+Pleasant,Neutral,Stripes,Trendy,Loose,Sweatpants,A timeless piece to stay snug and fashionable.
+Snowy,Pastel,Stripes,Unique,Standard,Blazer,Sporty and comfy for active or relaxed moments.
+Snowy,Earth,Geometric,Sophisticated,Standard,T-Shirt,A stylish yet relaxed choice for warm weather.
+Sunny,Bright,Stripes,Sophisticated,Standard,Chinos,A lightweight jacket that’s both cool and versatile.
+Snowy,Bright,Geometric,Unique,Loose,Sweatpants,"A Comfortable, soft trousers often worn for lounging or exercise."
+Pleasant,Bright,Stripes,Casual,Loose,Tracksuit,Stylish and functional for rainy days.
+Pleasant,Bright,Solid colors,Unique,Standard,T-Shirt,Simple and comfortable for everyday wear.
+Snowy,Bright,Solid colors,Trendy,Standard,Polo Shirt,A timeless piece to stay snug and fashionable.
+Windy,Bright,Solid colors,Sophisticated,Oversized,Cardigan,A lightweight jacket that’s both cool and versatile.
+Windy,Bright,Stripes,Casual,Standard,Jacket,"A crisp, elegant shirt for professional settings."
+Sunny,Bright,Geometric,Trendy,Standard,Polo Shirt,"Perfect for chilly days, offering warmth with style."
+Sunny,Pastel,Geometric,Trendy,Oversized,Hoodie,"A knitted sweater that opens at the front, suitable for layering."
+Windy,Pastel,Stripes,Sophisticated,Standard,Blazer,A timeless piece to stay snug and fashionable.
+Windy,Neutral,Stripes,Trendy,Standard,Casual Shirt,Sporty and comfy for active or relaxed moments.
+Pleasant,Earth,Stripes,Casual,Oversized,Sweater,"A soft, button-up layer for cooler days."
+Sunny,Bright,Floral,Trendy,Standard,Casual Shirt,"A soft, button-up layer for cooler days."
+Snowy,Earth,Solid colors,Casual,Oversized,Sweater,"A soft, button-up layer for cooler days."
+Pleasant,Bright,Stripes,Casual,Standard,T-Shirt,"A knitted sweater that opens at the front, suitable for layering."
+Snowy,Pastel,Geometric,Casual,Loose,Sweatpants,Sporty and comfy for active or relaxed moments.
+Windy,Bright,Stripes,Casual,Oversized,Hoodie,"A knitted sweater that opens at the front, suitable for layering."
+Windy,Pastel,Stripes,Unique,Standard,Jeans,A stylish yet relaxed choice for warm weather.
+Windy,Earth,Geometric,Unique,Oversized,Trench Coat,A stylish yet relaxed choice for warm weather.
+Snowy,Bright,Stripes,Casual,Tight,Vest,"Perfect for chilly days, offering warmth with style."
+Windy,Earth,Floral,Casual,Standard,Bomber Jacket,A smart and polished alternative to jeans.
+Snowy,Neutral,Stripes,Sophisticated,Loose,Shorts,A lightweight and comfy everyday essential.
+Sunny,Bright,Floral,Sophisticated,Standard,Denim Jacket,"A crisp, elegant shirt for professional settings."
+Pleasant,Pastel,Geometric,Casual,Standard,Chinos,"Breezy and casual, ideal for sunny outings."
+Pleasant,Bright,Floral,Casual,Standard,Formal Shirt,"A crisp, elegant shirt for professional settings."
+Sunny,Bright,Stripes,Unique,Standard,Casual Shirt,"A knitted sweater that opens at the front, suitable for layering."
+Sunny,Bright,Solid colors,Sophisticated,Standard,Denim Jacket,A smart and polished alternative to jeans.
+Sunny,Pastel,Stripes,Sophisticated,Standard,Denim Jacket,"A crisp, elegant shirt for professional settings."
+Pleasant,Neutral,Floral,Sophisticated,Loose,Shorts,Adds a refined touch to casual or formal outfits.
+Snowy,Bright,Geometric,Casual,Oversized,Hoodie,Sporty and comfy for active or relaxed moments.
+Snowy,Bright,Geometric,Casual,Standard,Chinos,"Breezy and casual, ideal for sunny outings."
+Windy,Bright,Geometric,Casual,Standard,Chinos,A rugged classic for casual layering.
+Sunny,Bright,Floral,Casual,Loose,Shorts,A smart and polished alternative to jeans.
+Pleasant,Bright,Stripes,Sophisticated,Oversized,Cardigan,A stylish yet relaxed choice for warm weather.
+Pleasant,Neutral,Geometric,Unique,Standard,Casual Shirt,Adds a refined touch to casual or formal outfits.
+Sunny,Pastel,Geometric,Trendy,Standard,Jacket,A rugged classic for casual layering.
+Pleasant,Neutral,Stripes,Unique,Standard,Blazer,"A Comfortable, soft trousers often worn for lounging or exercise."
+Pleasant,Bright,Solid colors,Trendy,Standard,Suit,Stylish and functional for rainy days.
+Snowy,Bright,Stripes,Trendy,Standard,Suit,"A Comfortable, soft trousers often worn for lounging or exercise."
+Sunny,Bright,Solid colors,Casual,Standard,T-Shirt,"Perfect for chilly days, offering warmth with style."
+Windy,Bright,Geometric,Casual,Standard,T-Shirt,"A crisp, elegant shirt for professional settings."
+Windy,Earth,Solid colors,Sophisticated,Standard,Casual Shirt,Stylish and functional for rainy days.
+Snowy,Bright,Geometric,Sophisticated,Oversized,Cardigan,"Perfect for chilly days, offering warmth with style."
+Snowy,Bright,Geometric,Unique,Standard,Bomber Jacket,"Breezy and casual, ideal for sunny outings."
+Windy,Earth,Stripes,Sophisticated,Standard,Chinos,A rugged classic for casual layering.
+Sunny,Bright,Stripes,Unique,Standard,Jeans,A sharp and sophisticated choice for formal events.
+Windy,Pastel,Geometric,Unique,Standard,Jacket,"Cozy and relaxed, perfect for laid-back days."
+Sunny,Neutral,Stripes,Sophisticated,Standard,Denim Jacket,A smart and polished alternative to jeans.
+Sunny,Bright,Stripes,Sophisticated,Loose,Tracksuit,A timeless piece to stay snug and fashionable.
+Windy,Bright,Stripes,Casual,Standard,T-Shirt,Adds a refined touch to casual or formal outfits.
+Snowy,Pastel,Geometric,Unique,Oversized,Sweater,Simple and comfortable for everyday wear.
+Sunny,Bright,Stripes,Unique,Oversized,Trench Coat,"Breezy and casual, ideal for sunny outings."
+Pleasant,Earth,Stripes,Sophisticated,Standard,Suit,Sporty and comfy for active or relaxed moments.
+Sunny,Bright,Geometric,Casual,Oversized,Cardigan,"A Comfortable, soft trousers often worn for lounging or exercise."
+Windy,Bright,Geometric,Sophisticated,Oversized,Trench Coat,Classic denim for versatile and effortless style.
+Snowy,Neutral,Solid colors,Sophisticated,Standard,Suit,"A Comfortable, soft trousers often worn for lounging or exercise."
+Pleasant,Earth,Geometric,Sophisticated,Standard,Bomber Jacket,A stylish yet relaxed choice for warm weather.
+Snowy,Bright,Stripes,Unique,Standard,Jacket,Adds a refined touch to casual or formal outfits.
+Windy,Earth,Solid colors,Unique,Standard,Casual Shirt,"A Comfortable, soft trousers often worn for lounging or exercise."
+Pleasant,Earth,Stripes,Casual,Standard,Jeans,Stylish and functional for rainy days.
+Pleasant,Neutral,Stripes,Casual,Standard,Suit,A lightweight and comfy everyday essential.
+Sunny,Pastel,Geometric,Unique,Tight,Vest,"Perfect for chilly days, offering warmth with style."
+Snowy,Bright,Floral,Sophisticated,Standard,Jacket,A lightweight jacket that’s both cool and versatile.
+Pleasant,Earth,Geometric,Unique,Tight,Vest,Adds a refined touch to casual or formal outfits.
+Snowy,Earth,Stripes,Unique,Loose,Tracksuit,Sporty and comfy for active or relaxed moments.
+Sunny,Bright,Geometric,Sophisticated,Oversized,Trench Coat,Simple and comfortable for everyday wear.
+Sunny,Bright,Floral,Sophisticated,Standard,Chinos,"Perfect for chilly days, offering warmth with style."
+Windy,Bright,Geometric,Unique,Oversized,Sweater,A lightweight jacket that’s both cool and versatile.
+Sunny,Bright,Stripes,Sophisticated,Standard,Formal Shirt,"Cozy and relaxed, perfect for laid-back days."
+Sunny,Neutral,Stripes,Sophisticated,Loose,Shorts,Adds a refined touch to casual or formal outfits.
+Windy,Bright,Geometric,Sophisticated,Loose,Tracksuit,Stylish and functional for rainy days.
+Pleasant,Neutral,Stripes,Sophisticated,Oversized,Cardigan,"Perfect for chilly days, offering warmth with style."
+Pleasant,Pastel,Solid colors,Sophisticated,Standard,Jeans,"Perfect for chilly days, offering warmth with style."
+Windy,Pastel,Geometric,Sophisticated,Tight,Vest,"A sleeveless upper garment, often worn over shirts for a formal or casual look."
+Sunny,Bright,Stripes,Sophisticated,Standard,Bomber Jacket,A stylish yet relaxed choice for warm weather.
+Sunny,Neutral,Geometric,Casual,Oversized,Hoodie,Sporty and comfy for active or relaxed moments.
+Windy,Pastel,Stripes,Casual,Standard,Casual Shirt,Stylish and functional for rainy days.
+Windy,Neutral,Stripes,Casual,Standard,Jeans,Classic denim for versatile and effortless style.
+Sunny,Bright,Geometric,Casual,Standard,Blazer,Sporty and comfy for active or relaxed moments.
+Sunny,Neutral,Solid colors,Casual,Standard,Polo Shirt,"Cozy and relaxed, perfect for laid-back days."
+Windy,Neutral,Solid colors,Casual,Standard,Jeans,"Perfect for chilly days, offering warmth with style."
+Sunny,Bright,Stripes,Casual,Standard,Denim Jacket,A smart and polished alternative to jeans.
+Windy,Pastel,Solid colors,Trendy,Standard,Formal Shirt,"A crisp, elegant shirt for professional settings."
+Pleasant,Neutral,Stripes,Trendy,Standard,Jeans,Stylish and functional for rainy days.
+Windy,Neutral,Solid colors,Casual,Loose,Sweatpants,A timeless piece to stay snug and fashionable.
+Windy,Neutral,Geometric,Sophisticated,Standard,Suit,Stylish and functional for rainy days.
+Sunny,Neutral,Solid colors,Trendy,Loose,Shorts,A lightweight and comfy everyday essential.
+Pleasant,Pastel,Stripes,Unique,Oversized,Hoodie,Simple and comfortable for everyday wear.
+Windy,Neutral,Geometric,Unique,Standard,T-Shirt,"A soft, button-up layer for cooler days."
+Sunny,Bright,Stripes,Unique,Loose,Shorts,Adds a refined touch to casual or formal outfits.
+Sunny,Neutral,Solid colors,Unique,Standard,T-Shirt,Adds a refined touch to casual or formal outfits.
+Sunny,Bright,Solid colors,Unique,Standard,T-Shirt,"A crisp, elegant shirt for professional settings."
+Sunny,Bright,Solid colors,Unique,Oversized,Trench Coat,Classic denim for versatile and effortless style.
+Pleasant,Neutral,Geometric,Sophisticated,Standard,Chinos,"Breezy and casual, ideal for sunny outings."
+Sunny,Bright,Stripes,Sophisticated,Tight,Vest,"Perfect for chilly days, offering warmth with style."
+Windy,Neutral,Geometric,Sophisticated,Loose,Sweatpants,"A Comfortable, soft trousers often worn for lounging or exercise."
+Pleasant,Pastel,Geometric,Sophisticated,Standard,T-Shirt,"A knitted sweater that opens at the front, suitable for layering."
+Sunny,Pastel,Geometric,Sophisticated,Loose,Shorts,A lightweight and comfy everyday essential.
+Pleasant,Neutral,Stripes,Sophisticated,Standard,Formal Shirt,"A crisp, elegant shirt for professional settings."
+Sunny,Pastel,Geometric,Casual,Oversized,Hoodie,"Breezy and casual, ideal for sunny outings."
+Sunny,Pastel,Solid colors,Casual,Loose,Sweatpants,"Perfect for chilly days, offering warmth with style."
+Windy,Bright,Geometric,Casual,Standard,Polo Shirt,A stylish yet relaxed choice for warm weather.
+Sunny,Bright,Stripes,Casual,Standard,Blazer,Sporty and comfy for active or relaxed moments.
+Windy,Pastel,Stripes,Casual,Oversized,Trench Coat,Stylish and functional for rainy days.
+Sunny,Bright,Geometric,Casual,Standard,Chinos,"Perfect for chilly days, offering warmth with style."
+Pleasant,Bright,Stripes,Sophisticated,Standard,Jacket,A lightweight jacket that’s both cool and versatile.
+Sunny,Neutral,Geometric,Trendy,Standard,T-Shirt,"A crisp, elegant shirt for professional settings."
+Sunny,Pastel,Geometric,Trendy,Oversized,Cardigan,A stylish yet relaxed choice for warm weather.
+Sunny,Neutral,Stripes,Trendy,Standard,Denim Jacket,A smart and polished alternative to jeans.
+Sunny,Bright,Geometric,Sophisticated,Standard,Suit,A lightweight and comfy everyday essential.
+Sunny,Neutral,Geometric,Casual,Standard,Casual Shirt,"A knitted sweater that opens at the front, suitable for layering."
+Sunny,Neutral,Geometric,Unique,Standard,T-Shirt,Adds a refined touch to casual or formal outfits.
+Windy,Neutral,Geometric,Unique,Loose,Shorts,A lightweight and comfy everyday essential.
+Sunny,Bright,Geometric,Unique,Loose,Sweatpants,"A Comfortable, soft trousers often worn for lounging or exercise."
+Sunny,Neutral,Geometric,Unique,Standard,Suit,A lightweight and comfy everyday essential.
+Sunny,Bright,Stripes,Unique,Standard,Formal Shirt,"A crisp, elegant shirt for professional settings."
+Sunny,Neutral,Geometric,Unique,Standard,Suit,Stylish and functional for rainy days.
+Pleasant,Bright,Stripes,Sophisticated,Standard,Blazer,A stylish yet relaxed choice for warm weather.
+Windy,Neutral,Stripes,Sophisticated,Standard,Jacket,A timeless piece to stay snug and fashionable.
+Pleasant,Neutral,Stripes,Sophisticated,Standard,Denim Jacket,A smart and polished alternative to jeans.
+Windy,Bright,Stripes,Sophisticated,Loose,Tracksuit,"Perfect for chilly days, offering warmth with style."
+Pleasant,Neutral,Stripes,Sophisticated,Standard,Chinos,"Breezy and casual, ideal for sunny outings."
+Pleasant,Neutral,Stripes,Sophisticated,Standard,Blazer,Adds a refined touch to casual or formal outfits.
+Sunny,Neutral,Stripes,Casual,Standard,Casual Shirt,Sporty and comfy for active or relaxed moments.
+Windy,Neutral,Stripes,Casual,Standard,Bomber Jacket,A lightweight jacket that’s both cool and versatile.
+Pleasant,Neutral,Stripes,Casual,Oversized,Sweater,A lightweight jacket that’s both cool and versatile.
+Sunny,Neutral,Stripes,Casual,Standard,Denim Jacket,"A crisp, elegant shirt for professional settings."
+Sunny,Pastel,Stripes,Casual,Tight,Vest,"Perfect for chilly days, offering warmth with style."
+Sunny,Neutral,Stripes,Casual,Loose,Sweatpants,"Perfect for chilly days, offering warmth with style."
+Sunny,Neutral,Stripes,Trendy,Loose,Sweatpants,"Cozy and relaxed, perfect for laid-back days."
+Sunny,Pastel,Stripes,Trendy,Standard,Jacket,"Cozy and relaxed, perfect for laid-back days."
+Sunny,Neutral,Stripes,Sophisticated,Standard,Jacket,"Cozy and relaxed, perfect for laid-back days."
+Windy,Pastel,Stripes,Trendy,Oversized,Hoodie,Classic denim for versatile and effortless style.
+Sunny,Neutral,Stripes,Casual,Standard,Jacket,A lightweight jacket that’s both cool and versatile.
+Pleasant,Pastel,Stripes,Casual,Standard,T-Shirt,"Perfect for chilly days, offering warmth with style."
+Sunny,Bright,Stripes,Unique,Loose,Tracksuit,Sporty and comfy for active or relaxed moments.
+Sunny,Neutral,Stripes,Unique,Loose,Tracksuit,A timeless piece to stay snug and fashionable.
+Sunny,Bright,Stripes,Unique,Standard,Denim Jacket,A rugged classic for casual layering.
+Windy,Neutral,Stripes,Unique,Oversized,Hoodie,"A knitted sweater that opens at the front, suitable for layering."
+Windy,Bright,Stripes,Unique,Standard,Chinos,"Breezy and casual, ideal for sunny outings."
+Sunny,Pastel,Stripes,Unique,Standard,Denim Jacket,"A crisp, elegant shirt for professional settings."
+Sunny,Pastel,Stripes,Sophisticated,Standard,Jeans,"Perfect for chilly days, offering warmth with style."
+Sunny,Pastel,Floral,Sophisticated,Standard,Polo Shirt,A stylish yet relaxed choice for warm weather.
+Pleasant,Bright,Floral,Sophisticated,Oversized,Cardigan,"Perfect for chilly days, offering warmth with style."
+Pleasant,Neutral,Floral,Sophisticated,Oversized,Cardigan,"A knitted sweater that opens at the front, suitable for layering."
+Windy,Neutral,Solid colors,Sophisticated,Standard,Suit,A sharp and sophisticated choice for formal events.
+Sunny,Neutral,Solid colors,Sophisticated,Standard,Suit,A lightweight and comfy everyday essential.
+Sunny,Neutral,Stripes,Casual,Standard,Casual Shirt,Sporty and comfy for active or relaxed moments.
+Sunny,Pastel,Floral,Casual,Loose,Tracksuit,A timeless piece to stay snug and fashionable.
+Windy,Pastel,Floral,Casual,Oversized,Cardigan,"A Comfortable, soft trousers often worn for lounging or exercise."
+Windy,Neutral,Stripes,Casual,Standard,T-Shirt,"A knitted sweater that opens at the front, suitable for layering."
+Sunny,Neutral,Stripes,Casual,Loose,Sweatpants,A timeless piece to stay snug and fashionable.
+Windy,Neutral,Floral,Casual,Standard,Polo Shirt,A timeless piece to stay snug and fashionable.
+Windy,Neutral,Floral,Sophisticated,Standard,Chinos,A rugged classic for casual layering.
+Sunny,Bright,Floral,Trendy,Standard,Casual Shirt,Simple and comfortable for everyday wear.
+Windy,Pastel,Floral,Sophisticated,Standard,T-Shirt,A lightweight and comfy everyday essential.
+Sunny,Neutral,Floral,Sophisticated,Standard,Jacket,"Cozy and relaxed, perfect for laid-back days."
+Sunny,Neutral,Solid colors,Sophisticated,Standard,Chinos,A rugged classic for casual layering.
+Pleasant,Pastel,Floral,Trendy,Standard,Bomber Jacket,A stylish yet relaxed choice for warm weather.
+Sunny,Neutral,Floral,Unique,Standard,Blazer,Sporty and comfy for active or relaxed moments.
+Windy,Neutral,Solid colors,Unique,Loose,Shorts,Adds a refined touch to casual or formal outfits.
+Windy,Pastel,Stripes,Unique,Oversized,Cardigan,"A soft, button-up layer for cooler days."
+Pleasant,Neutral,Stripes,Unique,Standard,T-Shirt,Adds a refined touch to casual or formal outfits.
+Sunny,Bright,Stripes,Unique,Standard,Blazer,"A Comfortable, soft trousers often worn for lounging or exercise."
+Sunny,Bright,Stripes,Unique,Standard,T-Shirt,"A crisp, elegant shirt for professional settings."
+Pleasant,Pastel,Geometric,Sophisticated,Standard,Bomber Jacket,A lightweight jacket that’s both cool and versatile.
+Windy,Neutral,Solid colors,Sophisticated,Loose,Sweatpants,"A Comfortable, soft trousers often worn for lounging or exercise."
+Pleasant,Pastel,Stripes,Sophisticated,Standard,Denim Jacket,"Breezy and casual, ideal for sunny outings."
+Sunny,Neutral,Solid colors,Sophisticated,Standard,Jacket,Adds a refined touch to casual or formal outfits.
+Windy,Pastel,Geometric,Sophisticated,Tight,Vest,"Perfect for chilly days, offering warmth with style."
+Sunny,Bright,Solid colors,Sophisticated,Oversized,Trench Coat,"Breezy and casual, ideal for sunny outings."
+Sunny,Bright,Solid colors,Casual,Loose,Sweatpants,"Perfect for chilly days, offering warmth with style."
+Pleasant,Neutral,Geometric,Casual,Standard,Chinos,"Breezy and casual, ideal for sunny outings."
+Sunny,Neutral,Solid colors,Casual,Standard,Denim Jacket,A smart and polished alternative to jeans.
+Sunny,Pastel,Geometric,Casual,Oversized,Hoodie,"Breezy and casual, ideal for sunny outings."
+Sunny,Pastel,Stripes,Casual,Tight,Vest,Adds a refined touch to casual or formal outfits.
+Sunny,Pastel,Solid colors,Casual,Standard,Denim Jacket,"A crisp, elegant shirt for professional settings."
+Sunny,Neutral,Geometric,Trendy,Standard,Jacket,"A crisp, elegant shirt for professional settings."
+Sunny,Pastel,Geometric,Trendy,Standard,Polo Shirt,A timeless piece to stay snug and fashionable.
+Sunny,Bright,Stripes,Sophisticated,Standard,Denim Jacket,"A crisp, elegant shirt for professional settings."
+Sunny,Neutral,Geometric,Trendy,Tight,Vest,Adds a refined touch to casual or formal outfits.
+Sunny,Neutral,Geometric,Trendy,Loose,Sweatpants,Sporty and comfy for active or relaxed moments.
+Windy,Neutral,Geometric,Casual,Standard,Denim Jacket,A smart and polished alternative to jeans.
+Sunny,Neutral,Stripes,Unique,Standard,Suit,A sharp and sophisticated choice for formal events.
+Sunny,Bright,Solid colors,Unique,Standard,Suit,"A Comfortable, soft trousers often worn for lounging or exercise."
+Sunny,Neutral,Solid colors,Unique,Loose,Shorts,Adds a refined touch to casual or formal outfits.
+Sunny,Bright,Stripes,Unique,Standard,Bomber Jacket,A stylish yet relaxed choice for warm weather.
+Sunny,Bright,Geometric,Unique,Standard,Chinos,"Perfect for chilly days, offering warmth with style."
+Sunny,Neutral,Solid colors,Unique,Oversized,Hoodie,"Cozy and relaxed, perfect for laid-back days."
+Sunny,Neutral,Solid colors,Sophisticated,Standard,Denim Jacket,A smart and polished alternative to jeans.
+Sunny,Pastel,Geometric,Sophisticated,Standard,Formal Shirt,"A crisp, elegant shirt for professional settings."
+Pleasant,Pastel,Geometric,Sophisticated,Standard,Jeans,A sharp and sophisticated choice for formal events.
+Pleasant,Bright,Geometric,Sophisticated,Standard,Casual Shirt,"A Comfortable, soft trousers often worn for lounging or exercise."
+Sunny,Bright,Stripes,Sophisticated,Standard,Casual Shirt,Adds a refined touch to casual or formal outfits.
+Sunny,Pastel,Stripes,Sophisticated,Oversized,Hoodie,"A knitted sweater that opens at the front, suitable for layering."
+Windy,Bright,Solid colors,Casual,Loose,Tracksuit,A timeless piece to stay snug and fashionable.
+Pleasant,Neutral,Stripes,Casual,Loose,Shorts,A smart and polished alternative to jeans.
+Pleasant,Pastel,Stripes,Casual,Standard,Suit,"A Comfortable, soft trousers often worn for lounging or exercise."
+Sunny,Pastel,Geometric,Casual,Standard,Suit,Sporty and comfy for active or relaxed moments.
+Pleasant,Neutral,Geometric,Casual,Standard,Suit,"A Comfortable, soft trousers often worn for lounging or exercise."
+Windy,Neutral,Geometric,Casual,Standard,Blazer,Stylish and functional for rainy days.
+Windy,Neutral,Geometric,Sophisticated,Loose,Shorts,Simple and comfortable for everyday wear.
+Windy,Bright,Geometric,Casual,Standard,Formal Shirt,"A crisp, elegant shirt for professional settings."
+Sunny,Neutral,Stripes,Trendy,Oversized,Cardigan,"A soft, button-up layer for cooler days."
+Windy,Neutral,Geometric,Trendy,Loose,Sweatpants,Sporty and comfy for active or relaxed moments.
+Pleasant,Pastel,Solid colors,Trendy,Standard,Jeans,"Perfect for chilly days, offering warmth with style."
+Pleasant,Pastel,Geometric,Casual,Loose,Tracksuit,Stylish and functional for rainy days.
+Windy,Neutral,Solid colors,Unique,Standard,Denim Jacket,A smart and polished alternative to jeans.
+Sunny,Pastel,Geometric,Unique,Standard,Blazer,"A Comfortable, soft trousers often worn for lounging or exercise."
+Sunny,Neutral,Geometric,Unique,Standard,Jacket,A lightweight jacket that’s both cool and versatile.
+Sunny,Bright,Solid colors,Unique,Loose,Sweatpants,"A Comfortable, soft trousers often worn for lounging or exercise."
+Sunny,Bright,Geometric,Unique,Standard,Casual Shirt,"A Comfortable, soft trousers often worn for lounging or exercise."
+Windy,Neutral,Geometric,Unique,Standard,Formal Shirt,"A crisp, elegant shirt for professional settings."
+Windy,Bright,Stripes,Sophisticated,Standard,T-Shirt,Adds a refined touch to casual or formal outfits.
+Windy,Bright,Solid colors,Sophisticated,Standard,Suit,Sporty and comfy for active or relaxed moments.
+Sunny,Bright,Geometric,Sophisticated,Standard,Chinos,"A Comfortable, soft trousers often worn for lounging or exercise."
+Windy,Bright,Solid colors,Sophisticated,Standard,Jeans,"Perfect for chilly days, offering warmth with style."
+Sunny,Bright,Geometric,Sophisticated,Standard,Jacket,A rugged classic for casual layering.
+Windy,Bright,Solid colors,Sophisticated,Standard,Casual Shirt,"A soft, button-up layer for cooler days."
