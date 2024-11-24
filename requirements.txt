@@ -2,7 +2,7 @@ streamlit==1.26.0       # For building the web application
 nltk==3.8.1             # For natural language processing
 numpy==1.24.4           # For numerical operations
 pandas==1.5.3           # For data manipulation
-tensorflow==2.7.0       # For machine learning model handling
+tensorflow==2.15.0      # For machine learning model handling
 scikit-learn==1.2.2     # For vectorization and encoding
 Pillow==9.5.0           # For image handling
 setuptools==65.5.0      # Ensures distutils functionality
