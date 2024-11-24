@@ -1,0 +1,7 @@
+streamlit==1.26.0       # For building the web application
+nltk==3.8.1             # For natural language processing (stopwords, stemming)
+numpy==1.24.4           # For numerical operations
+pandas==1.5.3           # For data manipulation and analysis
+tensorflow==2.7.0       # For loading and using the pre-trained models
+scikit-learn==1.2.2     # For vectorization and label encoding
+Pillow==9.5.0     
